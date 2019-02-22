@@ -1,2 +1,2 @@
 # Windows-Application-Activity-School
-Build in visual basic
+![](resources/images/readme/activity_project.jpg)
