@@ -1,0 +1,170 @@
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\bin\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\ET302-18\Desktop\AV\Activity\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\bin\Debug\Activity.xml
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity\Activity\bin\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\Doubledrift\Desktop\Activity\Activity\bin\Debug\MySql.Data.DLL
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.vbprojResolveAssemblyReference.cache
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\bin\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\bin\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\bin\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ET302-18\Desktop\Activity20-6-59-UP1\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\bin\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\bin\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\bin\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\bin\Debug\MySql.Data.DLL
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.vbprojResolveAssemblyReference.cache
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\Doubledrift\Desktop\Activity20-6-59-UP2\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\Doubledrift\Desktop\Activity_2\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity_2\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity_2\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.Frmimportstd.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmCheckstd_act.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\Activity\Activity\bin\Debug\Activity.exe
+C:\Users\ET302-18\Desktop\Activity\Activity\bin\Debug\Activity.pdb
+C:\Users\ET302-18\Desktop\Activity\Activity\bin\Debug\Activity.xml
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmCheckstd_act.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.Frmimportstd.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ET302-18\Desktop\Activity\Activity\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmCheck_std_list_act.resources
+C:\Users\Doubledrift\Desktop\Activity\Activity\obj\x86\Debug\Activity.FrmSplit_list_act.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\bin\Debug\Activity.exe
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\bin\Debug\Activity.pdb
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\bin\Debug\Activity.xml
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.vbprojResolveAssemblyReference.cache
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmCheckstd_act.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmCheck_std_list_act.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.Frmimportstd.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmSplit_list_act.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\Doubledrift\Downloads\Compressed\Activity-logo-my-resource\Activity\obj\x86\Debug\Activity.FrmLog.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\bin\Debug\Activity.exe
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\bin\Debug\Activity.pdb
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\bin\Debug\Activity.xml
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\bin\Debug\MySql.Data.DLL
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.vbprojResolveAssemblyReference.cache
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmCheckstd_act.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmCheck_std_list_act.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.Frmimportstd.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmLog.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmSplit_list_act.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\Doubledrift\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ)\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.exe
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.xml
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.pdb
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\bin\Debug\Activity.exe
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\bin\Debug\Activity.pdb
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\bin\Debug\Activity.xml
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.vbprojResolveAssemblyReference.cache
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmActivity.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmCheckstd_act.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmCheck_std_list_act.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmClass.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmDepartment.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.Frmimportstd.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmLog.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmSplit_list_act.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmStudent.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmTecher.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.Frmadd_user.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmAdmin.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.FrmLogin.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.Resources.resources
+C:\Users\ZZzzZZ\Desktop\Activity-logo-my-resource(ZZZZZZZZZZZ) (1)\Activity\obj\x86\Debug\Activity.vbproj.GenerateResource.Cache

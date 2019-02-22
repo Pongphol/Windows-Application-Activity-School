@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D0D36926-6C75-4D72-8671-BFAA6AF3AB20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Activity.My.MyApplication</StartupObject>
+    <RootNamespace>Activity</RootNamespace>
+    <AssemblyName>Activity</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Activity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Activity.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon-fat.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>..\..\..\Downloads\Compressed\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmActivity.Designer.vb">
+      <DependentUpon>FrmActivity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmActivity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCheckstd_act.Designer.vb">
+      <DependentUpon>FrmCheckstd_act.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCheckstd_act.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCheck_std_list_act.Designer.vb">
+      <DependentUpon>FrmCheck_std_list_act.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCheck_std_list_act.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmClass.Designer.vb">
+      <DependentUpon>FrmClass.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmClass.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDepartment.Designer.vb">
+      <DependentUpon>FrmDepartment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDepartment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmimportstd.Designer.vb">
+      <DependentUpon>Frmimportstd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmimportstd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLog.Designer.vb">
+      <DependentUpon>FrmLog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmSplit_list_act.Designer.vb">
+      <DependentUpon>FrmSplit_list_act.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmSplit_list_act.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmStudent.Designer.vb">
+      <DependentUpon>FrmStudent.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmStudent.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmTecher.Designer.vb">
+      <DependentUpon>FrmTecher.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmTecher.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmadd_user.Designer.vb">
+      <DependentUpon>Frmadd_user.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmadd_user.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAdmin.Designer.vb">
+      <DependentUpon>FrmAdmin.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmActivity.resx">
+      <DependentUpon>FrmActivity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCheckstd_act.resx">
+      <DependentUpon>FrmCheckstd_act.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmCheck_std_list_act.resx">
+      <DependentUpon>FrmCheck_std_list_act.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmClass.resx">
+      <DependentUpon>FrmClass.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDepartment.resx">
+      <DependentUpon>FrmDepartment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmimportstd.resx">
+      <DependentUpon>Frmimportstd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLog.resx">
+      <DependentUpon>FrmLog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmSplit_list_act.resx">
+      <DependentUpon>FrmSplit_list_act.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmStudent.resx">
+      <DependentUpon>FrmStudent.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmTecher.resx">
+      <DependentUpon>FrmTecher.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmadd_user.resx">
+      <DependentUpon>Frmadd_user.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAdmin.resx">
+      <DependentUpon>FrmAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icon-fat.ico" />
+    <None Include="Resources\logo_entech.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
